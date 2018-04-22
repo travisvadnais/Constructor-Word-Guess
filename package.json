@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/travisvadnais/Constructor-Word-Guess#readme",
   "dependencies": {
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "inquirer": "^5.2.0"
   }
 }
