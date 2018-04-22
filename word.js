@@ -34,12 +34,8 @@ function Word(gameWord) {
                 gameWord.gameLetters[i].analyzeLetter(letterGuess);
             }
         }
-        console.log(gameWord.gameLetters);
-
-
     }
     
-    //STILL NEED: A function that takes a character as an argument and calls the guess function on each letter object (the second function defined in `Letter.js`)
 }
 
 
