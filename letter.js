@@ -1,3 +1,5 @@
+
+
 //Letter constructor
 function Letter(letter) {
     //Letter property will be the fed letter
