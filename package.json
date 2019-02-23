@@ -21,6 +21,7 @@
     "colors": "^1.2.1",
     "fs": "0.0.1-security",
     "inquirer": "^5.2.0",
+    "lodash": "^4.17.11",
     "validator": "^9.4.1"
   }
 }
